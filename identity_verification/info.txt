@@ -8,4 +8,12 @@ STUDENT:
 TEACHER: 
   - name, school name, ID card 
 
+  System will first compare submitted ID card with verfied ID cards at the claimed school 
+    --> Similar = first stage pass, then perform teacher-response-test (within 1-3 days, verified teachers in the school and vote on the new teacher's acceptance)
+    --> Less than 25% say No --> accepted, else rejected 
+
+  If the school is not heard of, it will first do the real-school check 
+    --> fail = denied 
+    --> pass = automatically becomes accepted 
+    
 TUTOR (tentative) 
