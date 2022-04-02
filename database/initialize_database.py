@@ -61,3 +61,5 @@ c.execute('''
 conn.commit()
 
   
+# when do I close the connection? 
+
