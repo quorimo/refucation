@@ -1,0 +1,11 @@
+Identification System 
+
+--> Signup options: student, teacher, tutor 
+
+STUDENT: 
+  - name, school name
+
+TEACHER: 
+  - name, school name, ID card 
+
+TUTOR (tentative) 
